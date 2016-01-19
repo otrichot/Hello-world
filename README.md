@@ -1,4 +1,4 @@
 # Hello-world
 just another repository
 
-première modifs pour commit 
+premières modifs pour commit 
