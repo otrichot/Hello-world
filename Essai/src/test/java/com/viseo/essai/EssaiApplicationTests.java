@@ -13,7 +13,7 @@ public class EssaiApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		/*//*/
+		/* Test */
 	}
 
 }
